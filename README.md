@@ -8,4 +8,4 @@
 4. Run `copy .env.example .env` command or rename `.env.example` to `.env`
 5. Run `php artisan key:generate` command (For Security Purposes)
 6. Edit database info to suit your database information in `.env` copied or renamed file i.e Make sure you create database first :stuck_out_tongue_winking_eye:
-7. Run the project from the browser by going to the url i.e http://localhost/device-finance/public/ and http://localhost/device-finance/public/admin for admins then follow the instructions  :thumbsup:
+7. Run the project from the browser by going to the url i.e http://localhost/legaltogo/public/ and http://localhost/legaltogo/public/admin for admins then follow the instructions  :thumbsup:
